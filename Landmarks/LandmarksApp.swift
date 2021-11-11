@@ -1,4 +1,3 @@
-//
 //  LandmarksApp.swift
 //  Landmarks
 //
